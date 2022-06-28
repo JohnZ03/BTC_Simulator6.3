@@ -1,0 +1,162 @@
+ { "locations": {
+ 
+		"NORTH_AMERICA":{
+			"NORTH_AMERICA": {
+				"name": "pareto",
+				"parameters": 32
+			  },			  
+			"EUROPE":{
+				"name": "pareto",
+				"parameters": 125
+			  },			
+			"SOUTH_AMERICA": {
+				"name": "pareto",
+				"parameters": 185
+			  },			
+			"ASIA_PACIFIC": {
+				"name": "pareto",
+				"parameters": 200
+			  },			
+			"JAPAN": {
+				"name": "pareto",
+				"parameters": 151
+			  },			
+			"AUSTRALIA":{
+				"name": "pareto",
+				"parameters": 189
+			  }			
+		},
+		"EUROPE":{
+			"NORTH_AMERICA": {
+				"name": "pareto",
+				"parameters": 124
+			  },			  
+			"EUROPE":{
+				"name": "pareto",
+				"parameters": 11
+			  },			
+			"SOUTH_AMERICA": {
+				"name": "pareto",
+				"parameters": 227
+			  },			
+			"ASIA_PACIFIC": {
+				"name": "pareto",
+				"parameters": 237
+			  },			
+			"JAPAN": {
+				"name": "pareto",
+				"parameters": 301
+			  },			
+			"AUSTRALIA":{
+				"name": "pareto",
+				"parameters": 294
+			  }	
+		},
+		"SOUTH_AMERICA":{
+			"NORTH_AMERICA": {
+				"name": "pareto",
+				"parameters": 184 
+			  },			
+			"EUROPE":{
+				"name": "pareto",
+				"parameters": 227
+			  },			
+			"SOUTH_AMERICA": {
+				"name": "pareto",
+				"parameters": 85
+			  },			
+			"ASIA_PACIFIC": {
+				"name": "pareto",
+				"parameters": 325
+			  },			 
+			"JAPAN": {
+				"name": "pareto",
+				"parameters": 301
+			  },			
+			"AUSTRALIA":{
+				"name": "pareto",
+				"parameters": 322
+			  }			
+		},
+		"ASIA_PACIFIC":{
+			"NORTH_AMERICA": {
+				"name": "pareto",
+				"parameters": 198
+			  },			  
+			"EUROPE":{
+				"name": "pareto",
+				"parameters": 237
+			  },			
+			"SOUTH_AMERICA": {
+				"name": "pareto",
+				"parameters": 325
+			  },			
+			"ASIA_PACIFIC": {
+				"name": "pareto",
+				"parameters": 90
+			  },			
+			"JAPAN": {
+				"name": "pareto",
+				"parameters": 58
+			  },			
+			"AUSTRALIA":{
+				"name": "pareto",
+				"parameters": 198
+			  }			
+		},
+		"JAPAN":{
+			"NORTH_AMERICA": {
+				"name": "pareto",
+				"parameters": 151
+			  },			  
+			"EUROPE":{
+				"name": "pareto",
+				"parameters": 252
+			  },			
+			"SOUTH_AMERICA": {
+				"name": "pareto",
+				"parameters": 301
+			  },			
+			"ASIA_PACIFIC": {
+				"name": "pareto",
+				"parameters": 58
+			  },			 
+			"JAPAN": {
+				"name": "pareto",
+				"parameters": 12
+			  },			
+			"AUSTRALIA":{
+				"name": "pareto",
+				"parameters": 126
+			  }			
+		},
+		"AUSTRALIA":{
+			"NORTH_AMERICA": {
+				"name": "pareto",
+				"parameters": 200
+			  },			 
+			"EUROPE":{
+				"name": "pareto",
+				"parameters": 295
+			  },			
+			"SOUTH_AMERICA": {
+				"name": "pareto",
+				"parameters": 322
+			  },			 
+			"ASIA_PACIFIC": {
+				"name": "pareto",
+				"parameters": 198
+			  },			 
+			"JAPAN": {
+				"name": "pareto",
+				"parameters": 126
+			  },			
+			"AUSTRALIA":{
+				"name": "pareto",
+				"parameters": 20
+			  }			
+		}
+	}
+ }
+
+

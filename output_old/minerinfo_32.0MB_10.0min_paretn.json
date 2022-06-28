@@ -1,0 +1,243 @@
+{
+    "8998_summary": {
+        "nid": 8998,
+        "hashrate": 14.36,
+        "block_reward": 175.0,
+        "blocks_genertated": [
+            1,
+            18,
+            20,
+            22,
+            25,
+            34,
+            37,
+            38,
+            50,
+            58,
+            72,
+            84,
+            99,
+            100
+        ]
+    },
+    "8999_summary": {
+        "nid": 8999,
+        "hashrate": 14.15,
+        "block_reward": 162.5,
+        "blocks_genertated": [
+            4,
+            7,
+            8,
+            13,
+            29,
+            32,
+            40,
+            53,
+            59,
+            60,
+            62,
+            88,
+            93
+        ]
+    },
+    "9000_summary": {
+        "nid": 9000,
+        "hashrate": 13.07,
+        "block_reward": 237.5,
+        "blocks_genertated": [
+            6,
+            9,
+            30,
+            33,
+            35,
+            36,
+            46,
+            47,
+            61,
+            64,
+            65,
+            75,
+            81,
+            82,
+            86,
+            89,
+            94,
+            102,
+            105
+        ]
+    },
+    "9001_summary": {
+        "nid": 9001,
+        "hashrate": 9.86,
+        "block_reward": 175.0,
+        "blocks_genertated": [
+            16,
+            24,
+            26,
+            31,
+            45,
+            48,
+            52,
+            55,
+            67,
+            69,
+            71,
+            79,
+            104,
+            106
+        ]
+    },
+    "9002_summary": {
+        "nid": 9002,
+        "hashrate": 5.36,
+        "block_reward": 137.5,
+        "blocks_genertated": [
+            5,
+            28,
+            57,
+            66,
+            68,
+            74,
+            80,
+            87,
+            91,
+            92,
+            96
+        ]
+    },
+    "9003_summary": {
+        "nid": 9003,
+        "hashrate": 5.36,
+        "block_reward": 50.0,
+        "blocks_genertated": [
+            63,
+            78,
+            85,
+            101
+        ]
+    },
+    "9004_summary": {
+        "nid": 9004,
+        "hashrate": 5.29,
+        "block_reward": 75.0,
+        "blocks_genertated": [
+            14,
+            15,
+            27,
+            44,
+            76,
+            77
+        ]
+    },
+    "9005_summary": {
+        "nid": 9005,
+        "hashrate": 4.72,
+        "block_reward": 50.0,
+        "blocks_genertated": [
+            17,
+            41,
+            49,
+            70
+        ]
+    },
+    "9006_summary": {
+        "nid": 9006,
+        "hashrate": 2.79,
+        "block_reward": 37.5,
+        "blocks_genertated": [
+            12,
+            21,
+            83
+        ]
+    },
+    "9007_summary": {
+        "nid": 9007,
+        "hashrate": 2.57,
+        "block_reward": 37.5,
+        "blocks_genertated": [
+            11,
+            56,
+            97
+        ]
+    },
+    "9008_summary": {
+        "nid": 9008,
+        "hashrate": 2.36,
+        "block_reward": 25.0,
+        "blocks_genertated": [
+            23,
+            51
+        ]
+    },
+    "9009_summary": {
+        "nid": 9009,
+        "hashrate": 1.71,
+        "block_reward": 37.5,
+        "blocks_genertated": [
+            19,
+            43,
+            95
+        ]
+    },
+    "9010_summary": {
+        "nid": 9010,
+        "hashrate": 1.5,
+        "block_reward": 0,
+        "blocks_genertated": []
+    },
+    "9011_summary": {
+        "nid": 9011,
+        "hashrate": 0.64297,
+        "block_reward": 50.0,
+        "blocks_genertated": [
+            2,
+            10,
+            39,
+            98
+        ]
+    },
+    "9012_summary": {
+        "nid": 9012,
+        "hashrate": 0.21432,
+        "block_reward": 0,
+        "blocks_genertated": []
+    },
+    "9013_summary": {
+        "nid": 9013,
+        "hashrate": 0.21432,
+        "block_reward": 0,
+        "blocks_genertated": []
+    },
+    "9014_summary": {
+        "nid": 9014,
+        "hashrate": 1,
+        "block_reward": 12.5,
+        "blocks_genertated": [
+            3
+        ]
+    },
+    "9015_summary": {
+        "nid": 9015,
+        "hashrate": 1,
+        "block_reward": 0,
+        "blocks_genertated": []
+    },
+    "9016_summary": {
+        "nid": 9016,
+        "hashrate": 1,
+        "block_reward": 0,
+        "blocks_genertated": []
+    },
+    "9017_summary": {
+        "nid": 9017,
+        "hashrate": 2,
+        "block_reward": 62.5,
+        "blocks_genertated": [
+            42,
+            54,
+            73,
+            90,
+            103
+        ]
+    }
+}

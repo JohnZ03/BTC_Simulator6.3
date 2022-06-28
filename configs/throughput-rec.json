@@ -1,0 +1,29 @@
+{
+  "locations": {
+    "NORTH_AMERICA": {
+      "name": "norm",
+      "parameters": "(24704.0, 4000)"
+    },
+    "EUROPE": {
+      "name": "norm",
+      "parameters": "(23765.75, 4000)"
+    },
+    "SOUTH_AMERICA": {
+      "name": "norm",
+      "parameters": "(17530.5, 3000)"
+    },
+	"ASIA_PACIFIC": {
+      "name": "norm",
+      "parameters": "(10122.75, 3000)"
+    },
+	"JAPAN": {
+      "name": "norm",
+      "parameters": "(25000.96537303257, 3000)"
+    },
+	"AUSTRALIA": {
+      "name": "norm",
+      "parameters": "(14034.75, 3000)"
+    }
+  }
+}
+

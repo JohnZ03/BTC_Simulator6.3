@@ -1,0 +1,181 @@
+{
+    "blockchain": "bitcoin",
+    "locations": [
+        "NORTH_AMERICA",
+        "EUROPE",
+        "SOUTH_AMERICA",
+        "ASIA_PACIFIC",
+        "JAPAN",
+        "AUSTRALIA"
+    ],
+    "bitcoin": {
+        "average_txs_per_block": 2200,
+        "number_transactions_per_block": {
+            "name": "norm",
+            "parameters": "(2200, 200)"
+        },
+        "number_of_nodes": 9000,
+        "nconnections": {
+            "name": "norm",
+            "parameters": "(8,1)"
+        },
+        "block_size_kB": {
+            "name": "norm",
+            "parameters": "(1000,250)"
+        },
+        "message_size_kB": {
+            "header": 0.024,
+            "version": 0.095,
+            "verack": 0,
+            "inv_vector": 0.036,
+            "tx": 0.54,
+            "block_base": 0.082
+        },
+        "time_between_blocks_seconds": {
+            "name": "norm",
+            "parameters": "(10,1)"
+        },
+        "node_distribution": {
+            "NORTH_AMERICA": 0.3316,
+            "EUROPE": 0.4998,
+            "SOUTH_AMERICA": 0.009,
+            "ASIA_PACIFIC": 0.1177,
+            "JAPAN": 0.0224,
+            "AUSTRALIA": 0.0195
+        },
+        "minner_distribution": {
+            "NORTH_AMERICA": 0.05,
+            "EUROPE": 0.2,
+            "SOUTH_AMERICA": 0.0,
+            "ASIA_PACIFIC": 0.7,
+            "JAPAN": 0.05,
+            "AUSTRALIA": 0.0
+        },
+        "mining_pool": {
+            "Poolin": {
+                "region": "ASIA_PACIFIC",
+                "mega_hashrate": 14.36
+            },
+            "BTC.com": {
+                "region": "ASIA_PACIFIC",
+                "mega_hashrate": 14.15
+            },
+            "F2Pool": {
+                "region": "ASIA_PACIFIC",
+                "mega_hashrate": 13.07
+            },
+            "AntPool": {
+                "region": "ASIA_PACIFIC",
+                "mega_hashrate": 9.86
+            },
+            "ViaBTC": {
+                "region": "ASIA_PACIFIC",
+                "mega_hashrate": 5.36
+            },
+            "Huobi.pool": {
+                "region": "ASIA_PACIFIC",
+                "mega_hashrate": 5.36
+            },
+            "1THash&58COIN": {
+                "region": "ASIA_PACIFIC",
+                "mega_hashrate": 5.29
+            },
+            "SlushPool": {
+                "region": "EUROPE",
+                "mega_hashrate": 4.72
+            },
+            "BTC.TOP": {
+                "region": "ASIA_PACIFIC",
+                "mega_hashrate": 2.79
+            },
+            "BitFury": {
+                "region": "EUROPE",
+                "mega_hashrate": 2.57
+            },
+            "okpool.top": {
+                "region": "ASIA_PACIFIC",
+                "mega_hashrate": 2.36
+            },
+            "BytePool": {
+                "region": "ASIA_PACIFIC",
+                "mega_hashrate": 1.71
+            },
+            "NovaBlock": {
+                "region": "NORTH_AMERICA",
+                "mega_hashrate": 1.5
+            },
+            "WAYI.CN": {
+                "region": "ASIA_PACIFIC",
+                "mega_hashrate": 0.64297
+            },
+            "Bitcoin.com": {
+                "region": "NORTH_AMERICA",
+                "mega_hashrate": 0.21432
+            },
+            "SpiderPool": {
+                "region": "ASIA_PACIFIC",
+                "mega_hashrate": 0.21432
+            },
+            "unknown1": {
+                "region": "SOUTH_AMERICA",
+                "mega_hashrate": 1
+            },
+            "unknown2": {
+                "region": "AUSTRALIA",
+                "mega_hashrate": 1
+            },
+            "unknown3": {
+                "region": "NORTH_AMERICA",
+                "mega_hashrate": 1
+            },
+            "unknown4": {
+                "region": "JAPAN",
+                "mega_hashrate": 2
+            }
+        }
+    },
+    "litecoin": {
+        "average_txs_per_block": 34,
+        "number_transactions_per_block": {
+            "name": "norm",
+            "parameters": "(34, 5)"
+        },
+        "number_of_nodes": 0,
+        "nconnections": {
+            "name": "norm",
+            "parameters": "(8,1)"
+        },
+        "block_size_kB": {
+            "name": "norm",
+            "parameters": "(13,3)"
+        },
+        "message_size_kB": {
+            "header": 0.024,
+            "version": 0.095,
+            "verack": 0,
+            "inv_vector": 0.036,
+            "tx": 0.54,
+            "block_base": 0.082
+        },
+        "time_between_blocks_seconds": {
+            "name": "norm",
+            "parameters": "(150, 30)"
+        },
+        "full_node_distribution": {
+            "NORTH_AMERICA": 0.3661,
+            "EUROPE": 0.4791,
+            "SOUTH_AMERICA": 0.0149,
+            "ASIA_PACIFIC": 0.1022,
+            "JAPAN": 0.0238,
+            "AUSTRALIA": 0.0139
+        },
+        "minner_distribution": {
+            "NORTH_AMERICA": 0.05,
+            "EUROPE": 0.2,
+            "SOUTH_AMERICA": 0.0,
+            "ASIA_PACIFIC": 0.7,
+            "JAPAN": 0.05,
+            "AUSTRALIA": 0.0
+        }
+    }
+}
